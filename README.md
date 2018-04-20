@@ -7,7 +7,7 @@ https://kubernetes.io/docs/tutorials/stateful-application/mysql-wordpress-persis
 
 ## Setup
 
-###Verifgy that kubectl is installed
+### Verifgy that kubectl is installed
 
 ```kubectl version```
 
